@@ -1,0 +1,159 @@
+/* untuk login */
+body {
+  background-color: #ffffff;
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  border: 2px solid #020300;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  overflow: hidden;
+  width: 100%;
+  max-width: 400px;
+}
+
+.card-title {
+  background-color: #00ca0a;
+  color: #ffffff;
+  padding: 15px;
+  text-align: center;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 10px;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: #00ce1f;
+  border: 1px solid #000000;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, border-color 0.3s ease,
+    color 0.3s ease;
+}
+
+button:hover {
+  background-color: #dde100;
+  border-color: #000000;
+}
+
+.alert {
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 5px;
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.regist a {
+  text-decoration: none;
+  display: block;
+  padding: 10px;
+}
+/* login beres*/
+
+/* untuk register */
+body {
+  background-color: #f8f9fa;
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  margin-top: 10px;
+}
+
+.card {
+  border: 2px solid #020300;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  overflow: hidden;
+  width: 100%;
+  max-width: 340px;
+}
+
+.card-title {
+  background-color: #00ca0a;
+  color: #ffffff;
+  padding: 15px;
+  text-align: center;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 10px;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: #00ce1f;
+  border: 1px solid #000000;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, border-color 0.3s ease,
+    color 0.3s ease;
+}
+
+button:hover {
+  background-color: #dde100;
+  border-color: #000000;
+}
+
+.alert {
+  margin-top: 30px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.login a {
+  text-decoration: none;
+}
+/* Register beres */
+
+
